@@ -9,7 +9,7 @@
 - [ ] branches
     > - [x] html is done
 
-    > working on css
+    > - [ ] working on css
 
 - [ ] subjects
 - [ ] teachers
