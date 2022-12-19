@@ -2,15 +2,12 @@
 
 - [x] header
 
-- [x] menu
-
 - [x] landing section
 
-- [ ] branches
-    > - [x] html is done
-
-    > - [ ] working on css
+- [x] branches
 
 - [ ] subjects
+
 - [ ] teachers
+
 - [ ] contact
