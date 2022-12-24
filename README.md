@@ -6,7 +6,7 @@
 
 - [x] branches
 
-- [ ] subjects
+- [x] subjects
 
 - [ ] teachers
 
