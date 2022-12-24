@@ -8,7 +8,7 @@
 
 - [x] subjects
 
-- [ ] teachers
+- [x] teachers
 
 - [ ] contact
 
