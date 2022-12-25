@@ -405,3 +405,18 @@ main .welcome p {
   }
 }
 /* End Contact */
+
+/* Start Footer */
+footer {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 18px;
+}
+
+footer span {
+  color: var(--main-color);
+  font-weight: bold;
+}
+/* End Footer */
