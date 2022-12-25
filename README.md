@@ -10,7 +10,7 @@
 
 - [x] teachers
 
-- [ ] contact
+- [x] contact
 
 # Demo
 

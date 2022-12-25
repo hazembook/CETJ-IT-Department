@@ -51,7 +51,7 @@ body {
 
 /* Start Special Components */
 .special-heading {
-  color: #ebeced;
+  color: #cad5dd;
   font-size: 100px;
   font-weight: 800;
   text-align: center;
@@ -60,8 +60,8 @@ body {
 }
 
 .special-heading + p {
-  color: #797979;
-  margin: -5px 0 0;
+  color: #706f6f;
+  margin: -15px 0 0;
   font-size: 20px;
   text-align: center;
 }
@@ -199,7 +199,7 @@ main .welcome h1 {
 main .welcome p {
   font-size: 19px;
   line-height: 1.8;
-  color: var(--main-color);
+  color: var(--secondary-color);
 }
 /* End Landing */
 
@@ -355,3 +355,53 @@ main .welcome p {
   }
 }
 /* End Teachers */
+
+/* Start Contact */
+.contact {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  background-color: var(--section-background);
+}
+
+.contact .info {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  text-align: center;
+}
+
+.contact .info .label {
+  color: var(--secondary-color);
+  font-size: 35px;
+  font-weight: 800;
+  letter-spacing: -2px;
+  margin-bottom: 15px;
+}
+
+.contact .info .mail {
+  display: block;
+  color: var(--main-color);
+  font-size: 35px;
+  font-weight: 800;
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+.contact .info .social {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.contact .info .social i {
+  margin-left: 10px;
+  color: var(--secondary-color);
+}
+
+@media (max-width: 768px) {
+  .contact .info .label,
+  .contact .info .mail {
+    font-size: 25px;
+  }
+}
+/* End Contact */
